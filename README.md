@@ -15,3 +15,9 @@ SampleSuperstore.csv (retail sales dataset)
 Python, Pandas, SQLite, SQL
 
 Portfolio: https://github.com/cbaydin
+## Tableau Dashboard (Planned)
+
+A Tableau dashboard is planned to visualize the results of this SQL + Python analysis.
+
+See dashboard plan here:
+dashboard/plan.md
